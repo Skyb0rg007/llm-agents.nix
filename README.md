@@ -654,6 +654,16 @@ Nix packages for AI coding agents and development tools. Automatically updated d
 
 </details>
 <details>
+<summary><strong>claude-science</strong> - Run Claude on your research data locally, with a web UI for notebooks, analysis and scientific workflows</summary>
+
+- **Source**: binary
+- **License**: unfree
+- **Homepage**: https://claude.com/product/claude-science
+- **Usage**: `nix run github:numtide/llm-agents.nix#claude-science -- --help`
+- **Nix**: [packages/claude-science/package.nix](packages/claude-science/package.nix)
+
+</details>
+<details>
 <summary><strong>grok-bot</strong> - Grok Bot desktop agent — AI teammates that finish the work</summary>
 
 - **Source**: binary
